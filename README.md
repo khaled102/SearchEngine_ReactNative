@@ -1,4 +1,4 @@
-Prerequisite/
+Prerequisite
 
 npm install Or yarn install
 
