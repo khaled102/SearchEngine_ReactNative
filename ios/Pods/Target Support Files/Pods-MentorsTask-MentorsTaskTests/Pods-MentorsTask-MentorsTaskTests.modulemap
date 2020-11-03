@@ -1,0 +1,6 @@
+module Pods_MentorsTask_MentorsTaskTests {
+  umbrella header "Pods-MentorsTask-MentorsTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
